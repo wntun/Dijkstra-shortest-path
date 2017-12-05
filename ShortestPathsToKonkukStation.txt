@@ -1,0 +1,241 @@
+Shortest path from 건대입구 to 서울역 : 서울역, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 40 mins. 
+Shortest path from 건대입구 to 시청 : 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 38 mins. 
+Shortest path from 건대입구 to 종각 : 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 35 mins. 
+Shortest path from 건대입구 to 종로3가 : 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 34 mins. 
+Shortest path from 건대입구 to 종로5가 : 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 32 mins. 
+Shortest path from 건대입구 to 동대문 : 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 30 mins. 
+Shortest path from 건대입구 to 동묘앞 : 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 29 mins. 
+Shortest path from 건대입구 to 신설동 : 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 27 mins. 
+Shortest path from 건대입구 to 제기동 : 제기동, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 29 mins. 
+Shortest path from 건대입구 to 청량리 : 청량리, 제기동, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 31 mins. 
+Shortest path from 건대입구 to 성수 : 성수, 건대입구,  with total time taken 10 mins. 
+Shortest path from 건대입구 to 용답 : 용답, 성수, 건대입구,  with total time taken 13 mins. 
+Shortest path from 건대입구 to 신답 : 신답, 용답, 성수, 건대입구,  with total time taken 15 mins. 
+Shortest path from 건대입구 to 용두 : 용두, 신답, 용답, 성수, 건대입구,  with total time taken 17 mins. 
+Shortest path from 건대입구 to 신도림 : 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 51 mins. 
+Shortest path from 건대입구 to 도림천 : 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 53 mins. 
+Shortest path from 건대입구 to 양천구청 : 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 56 mins. 
+Shortest path from 건대입구 to 신정네거리 : 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 60 mins. 
+Shortest path from 건대입구 to 까치산 : 까치산, 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 63 mins. 
+Shortest path from 건대입구 to 시청 : 시청,  with total time taken 2147483646 mins. 
+Shortest path from 건대입구 to 을지로입구 : 을지로입구, 을지로3가, 을지로4가, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 32 mins. 
+Shortest path from 건대입구 to 을지로3가 : 을지로3가, 을지로4가, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 30 mins. 
+Shortest path from 건대입구 to 을지로4가 : 을지로4가, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 29 mins. 
+Shortest path from 건대입구 to 동대문운동�2 : 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 27 mins. 
+Shortest path from 건대입구 to 신당 : 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 25 mins. 
+Shortest path from 건대입구 to 상왕십리 : 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 23 mins. 
+Shortest path from 건대입구 to 왕십리 : 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 22 mins. 
+Shortest path from 건대입구 to 한양대 : 한양대, 뚝섬, 성수, 건대입구,  with total time taken 20 mins. 
+Shortest path from 건대입구 to 뚝섬 : 뚝섬, 성수, 건대입구,  with total time taken 18 mins. 
+Shortest path from 건대입구 to 구의 : 구의, 건대입구,  with total time taken 3 mins. 
+Shortest path from 건대입구 to 강변 : 강변, 구의, 건대입구,  with total time taken 4 mins. 
+Shortest path from 건대입구 to 잠실나루 : 잠실나루, 강변, 구의, 건대입구,  with total time taken 7 mins. 
+Shortest path from 건대입구 to 잠실 : 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 9 mins. 
+Shortest path from 건대입구 to 잠실시내 : 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 11 mins. 
+Shortest path from 건대입구 to 종합운동장 : 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 13 mins. 
+Shortest path from 건대입구 to 삼성 : 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 15 mins. 
+Shortest path from 건대입구 to 선릉 : 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 17 mins. 
+Shortest path from 건대입구 to 역삼 : 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 19 mins. 
+Shortest path from 건대입구 to 강남 : 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 20 mins. 
+Shortest path from 건대입구 to 교대 : 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 22 mins. 
+Shortest path from 건대입구 to 서초 : 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 24 mins. 
+Shortest path from 건대입구 to 방배 : 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 26 mins. 
+Shortest path from 건대입구 to 사당 : 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 29 mins. 
+Shortest path from 건대입구 to 낙성대 : 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 31 mins. 
+Shortest path from 건대입구 to 서울대입구 : 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 33 mins. 
+Shortest path from 건대입구 to 봉천 : 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 35 mins. 
+Shortest path from 건대입구 to 신림 : 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 37 mins. 
+Shortest path from 건대입구 to 신대방 : 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 39 mins. 
+Shortest path from 건대입구 to 구로디지철�2 : 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 41 mins. 
+Shortest path from 건대입구 to 대림 : 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 43 mins. 
+Shortest path from 건대입구 to 문래 : 문래, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 61 mins. 
+Shortest path from 건대입구 to 영등포구청 : 영등포구청, 문래, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 63 mins. 
+Shortest path from 건대입구 to 당산 : 당산, 합정, 홍대입구, 신촌, 이대, 아현, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 62 mins. 
+Shortest path from 건대입구 to 합정 : 합정, 홍대입구, 신촌, 이대, 아현, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 58 mins. 
+Shortest path from 건대입구 to 홍대입구 : 홍대입구, 신촌, 이대, 아현, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 56 mins. 
+Shortest path from 건대입구 to 신촌 : 신촌, 이대, 아현, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 54 mins. 
+Shortest path from 건대입구 to 이대 : 이대, 아현, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 52 mins. 
+Shortest path from 건대입구 to 아현 : 아현, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 50 mins. 
+Shortest path from 건대입구 to 충정로 : 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 48 mins. 
+Shortest path from 건대입구 to 지축 : 지축, 구파발, 연신내, 불광, 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 64 mins. 
+Shortest path from 건대입구 to 구파발 : 구파발, 연신내, 불광, 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 60 mins. 
+Shortest path from 건대입구 to 연신내 : 연신내, 불광, 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 58 mins. 
+Shortest path from 건대입구 to 불광 : 불광, 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 56 mins. 
+Shortest path from 건대입구 to 녹번 : 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 54 mins. 
+Shortest path from 건대입구 to 홍제 : 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 51 mins. 
+Shortest path from 건대입구 to 무악재 : 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 49 mins. 
+Shortest path from 건대입구 to 독립문 : 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 47 mins. 
+Shortest path from 건대입구 to 경복궁 : 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 45 mins. 
+Shortest path from 건대입구 to 안국 : 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 43 mins. 
+Shortest path from 건대입구 to 충무로 : 충무로, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 36 mins. 
+Shortest path from 건대입구 to 동대입구 : 동대입구, 충무로, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 38 mins. 
+Shortest path from 건대입구 to 약수 : 약수, 동대입구, 충무로, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 40 mins. 
+Shortest path from 건대입구 to 금호 : 금호, 옥수, 압구정, 신사, 잠원, 고속터미널, 반포, 논현, 학동, 강남구청, 청담, 뚝섬유원지, 건대입구,  with total time taken 41 mins. 
+Shortest path from 건대입구 to 옥수 : 옥수, 압구정, 신사, 잠원, 고속터미널, 반포, 논현, 학동, 강남구청, 청담, 뚝섬유원지, 건대입구,  with total time taken 39 mins. 
+Shortest path from 건대입구 to 압구정 : 압구정, 신사, 잠원, 고속터미널, 반포, 논현, 학동, 강남구청, 청담, 뚝섬유원지, 건대입구,  with total time taken 37 mins. 
+Shortest path from 건대입구 to 신사 : 신사, 잠원, 고속터미널, 반포, 논현, 학동, 강남구청, 청담, 뚝섬유원지, 건대입구,  with total time taken 34 mins. 
+Shortest path from 건대입구 to 잠원 : 잠원, 고속터미널, 반포, 논현, 학동, 강남구청, 청담, 뚝섬유원지, 건대입구,  with total time taken 32 mins. 
+Shortest path from 건대입구 to 고속터미널 : 고속터미널, 반포, 논현, 학동, 강남구청, 청담, 뚝섬유원지, 건대입구,  with total time taken 30 mins. 
+Shortest path from 건대입구 to 남부터미널 : 남부터미널, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 32 mins. 
+Shortest path from 건대입구 to 양재 : 양재, 남부터미널, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 35 mins. 
+Shortest path from 건대입구 to 매봉 : 매봉, 양재, 남부터미널, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 37 mins. 
+Shortest path from 건대입구 to 도곡 : 도곡, 매봉, 양재, 남부터미널, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 39 mins. 
+Shortest path from 건대입구 to 대치 : 대치, 도곡, 매봉, 양재, 남부터미널, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 41 mins. 
+Shortest path from 건대입구 to 학여울 : 학여울, 대청, 일원, 수서, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 40 mins. 
+Shortest path from 건대입구 to 대청 : 대청, 일원, 수서, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 38 mins. 
+Shortest path from 건대입구 to 일원 : 일원, 수서, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 36 mins. 
+Shortest path from 건대입구 to 수서 : 수서, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 33 mins. 
+Shortest path from 건대입구 to 가락시장 : 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 31 mins. 
+Shortest path from 건대입구 to 경찰병원 : 경찰병원, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 33 mins. 
+Shortest path from 건대입구 to 오금 : 오금, 경찰병원, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 35 mins. 
+Shortest path from 건대입구 to 당고개 : 당고개, 상계, 노원, 창동, 쌍문, 수유, 미아, 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 64 mins. 
+Shortest path from 건대입구 to 상계 : 상계, 노원, 창동, 쌍문, 수유, 미아, 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 62 mins. 
+Shortest path from 건대입구 to 노원 : 노원, 창동, 쌍문, 수유, 미아, 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 60 mins. 
+Shortest path from 건대입구 to 창동 : 창동, 쌍문, 수유, 미아, 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 58 mins. 
+Shortest path from 건대입구 to 쌍문 : 쌍문, 수유, 미아, 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 56 mins. 
+Shortest path from 건대입구 to 수유 : 수유, 미아, 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 53 mins. 
+Shortest path from 건대입구 to 미아 : 미아, 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 51 mins. 
+Shortest path from 건대입구 to 미아삼거리 : 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 49 mins. 
+Shortest path from 건대입구 to 길음 : 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 47 mins. 
+Shortest path from 건대입구 to 성신여대입�3 : 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 44 mins. 
+Shortest path from 건대입구 to 한성대입구 : 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 42 mins. 
+Shortest path from 건대입구 to 혜화 : 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 40 mins. 
+Shortest path from 건대입구 to 명동 : 명동, 충무로, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 45 mins. 
+Shortest path from 건대입구 to 회현 : 회현, 명동, 충무로, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 47 mins. 
+Shortest path from 건대입구 to 숙대입구 : 숙대입구,  with total time taken 50 mins. 
+Shortest path from 건대입구 to 삼각지 : 삼각지, 신용산, 이촌, 동작, 이수, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 50 mins. 
+Shortest path from 건대입구 to 신용산 : 신용산, 이촌, 동작, 이수, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 49 mins. 
+Shortest path from 건대입구 to 이촌 : 이촌, 동작, 이수, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 47 mins. 
+Shortest path from 건대입구 to 동작 : 동작, 이수, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 43 mins. 
+Shortest path from 건대입구 to 이수 : 이수, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 40 mins. 
+Shortest path from 건대입구 to 남태령 : 남태령, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 38 mins. 
+Shortest path from 건대입구 to 강동 : 강동, 천호, 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 35 mins. 
+Shortest path from 건대입구 to 둔촌동 : 둔촌동, 강동, 천호, 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 37 mins. 
+Shortest path from 건대입구 to 올림픽공원 : 올림픽공원, 둔촌동, 강동, 천호, 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 39 mins. 
+Shortest path from 건대입구 to 방이 : 방이, 올림픽공원, 둔촌동, 강동, 천호, 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 41 mins. 
+Shortest path from 건대입구 to 개롱 : 개롱, 오금, 경찰병원, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 44 mins. 
+Shortest path from 건대입구 to 거여 : 거여, 개롱, 오금, 경찰병원, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 46 mins. 
+Shortest path from 건대입구 to 마천 : 마천, 거여, 개롱, 오금, 경찰병원, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 48 mins. 
+Shortest path from 건대입구 to 방화 : 방화, 개화산, 김포공항, 송정, 마곡, 발산, 우장산, 화곡, 까치산, 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 88 mins. 
+Shortest path from 건대입구 to 개화산 : 개화산, 김포공항, 송정, 마곡, 발산, 우장산, 화곡, 까치산, 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 86 mins. 
+Shortest path from 건대입구 to 김포공항 : 김포공항, 송정, 마곡, 발산, 우장산, 화곡, 까치산, 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 84 mins. 
+Shortest path from 건대입구 to 송정 : 송정, 마곡, 발산, 우장산, 화곡, 까치산, 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 82 mins. 
+Shortest path from 건대입구 to 마곡 : 마곡, 발산, 우장산, 화곡, 까치산, 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 80 mins. 
+Shortest path from 건대입구 to 발산 : 발산, 우장산, 화곡, 까치산, 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 78 mins. 
+Shortest path from 건대입구 to 우장산 : 우장산, 화곡, 까치산, 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 76 mins. 
+Shortest path from 건대입구 to 화곡 : 화곡, 까치산, 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 74 mins. 
+Shortest path from 건대입구 to 신정 : 신정, 까치산, 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 73 mins. 
+Shortest path from 건대입구 to 목동 : 목동, 신정, 까치산, 신정네거리, 양천구청, 도림천, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 75 mins. 
+Shortest path from 건대입구 to 오목교 : 오목교, 양평, 영등포구청, 문래, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 75 mins. 
+Shortest path from 건대입구 to 양평 : 양평, 영등포구청, 문래, 신도림, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 73 mins. 
+Shortest path from 건대입구 to 영등포시장 : 영등포시장, 신길, 여의도, 여의나루, 마포, 공덕, 애오개, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 70 mins. 
+Shortest path from 건대입구 to 신길 : 신길, 여의도, 여의나루, 마포, 공덕, 애오개, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 68 mins. 
+Shortest path from 건대입구 to 여의도 : 여의도, 여의나루, 마포, 공덕, 애오개, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 67 mins. 
+Shortest path from 건대입구 to 여의나루 : 여의나루, 마포, 공덕, 애오개, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 65 mins. 
+Shortest path from 건대입구 to 마포 : 마포, 공덕, 애오개, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 62 mins. 
+Shortest path from 건대입구 to 공덕 : 공덕, 애오개, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 60 mins. 
+Shortest path from 건대입구 to 애오개 : 애오개, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 58 mins. 
+Shortest path from 건대입구 to 서대문 : 서대문, 광화문, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 45 mins. 
+Shortest path from 건대입구 to 광화문 : 광화문, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 43 mins. 
+Shortest path from 건대입구 to 청구 : 청구, 신금호, 행당, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 34 mins. 
+Shortest path from 건대입구 to 신금호 : 신금호, 행당, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 32 mins. 
+Shortest path from 건대입구 to 행당 : 행당, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 31 mins. 
+Shortest path from 건대입구 to 마장 : 마장, 답십리, 장한평, 군자, 어린이대공�2, 건대입구,  with total time taken 27 mins. 
+Shortest path from 건대입구 to 답십리 : 답십리, 장한평, 군자, 어린이대공�2, 건대입구,  with total time taken 25 mins. 
+Shortest path from 건대입구 to 장한평 : 장한평, 군자, 어린이대공�2, 건대입구,  with total time taken 22 mins. 
+Shortest path from 건대입구 to 군자 : 군자, 어린이대공�2, 건대입구,  with total time taken 20 mins. 
+Shortest path from 건대입구 to 아차산 : 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 22 mins. 
+Shortest path from 건대입구 to 광나루 : 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 24 mins. 
+Shortest path from 건대입구 to 천호 : 천호, 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 27 mins. 
+Shortest path from 건대입구 to 길동 : 길동, 강동, 천호, 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 45 mins. 
+Shortest path from 건대입구 to 굽은다리 : 굽은다리, 길동, 강동, 천호, 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 46 mins. 
+Shortest path from 건대입구 to 명일 : 명일, 굽은다리, 길동, 강동, 천호, 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 48 mins. 
+Shortest path from 건대입구 to 고덕 : 고덕, 명일, 굽은다리, 길동, 강동, 천호, 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 50 mins. 
+Shortest path from 건대입구 to 상일동 : 상일동, 고덕, 명일, 굽은다리, 길동, 강동, 천호, 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 52 mins. 
+Shortest path from 건대입구 to 응암 : 응암, 역촌, 불광, 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 69 mins. 
+Shortest path from 건대입구 to 역촌 : 역촌, 불광, 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 66 mins. 
+Shortest path from 건대입구 to 독바위 : 독바위, 불광, 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 66 mins. 
+Shortest path from 건대입구 to 구산 : 구산, 연신내, 불광, 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 68 mins. 
+Shortest path from 건대입구 to 새절 : 새절, 응암, 역촌, 불광, 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 70 mins. 
+Shortest path from 건대입구 to 증산 : 증산, 새절, 응암, 역촌, 불광, 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 72 mins. 
+Shortest path from 건대입구 to 수색 : 수색, 증산, 새절, 응암, 역촌, 불광, 녹번, 홍제, 무악재, 독립문, 경복궁, 안국, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 74 mins. 
+Shortest path from 건대입구 to 월드컵경기�2 : 월드컵경기�2, 마포구청, 망원, 합정, 홍대입구, 신촌, 이대, 아현, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 73 mins. 
+Shortest path from 건대입구 to 마포구청 : 마포구청, 망원, 합정, 홍대입구, 신촌, 이대, 아현, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 72 mins. 
+Shortest path from 건대입구 to 망원 : 망원, 합정, 홍대입구, 신촌, 이대, 아현, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 70 mins. 
+Shortest path from 건대입구 to 상수 : 상수, 합정, 홍대입구, 신촌, 이대, 아현, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 68 mins. 
+Shortest path from 건대입구 to 광흥창 : 광흥창, 상수, 합정, 홍대입구, 신촌, 이대, 아현, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 69 mins. 
+Shortest path from 건대입구 to 대흥 : 대흥, 공덕, 애오개, 충정로, 시청, 종각, 종로3가, 종로5가, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 70 mins. 
+Shortest path from 건대입구 to 효창공원 : 효창공원, 삼각지, 신용산, 이촌, 동작, 이수, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 60 mins. 
+Shortest path from 건대입구 to 녹사평 : 녹사평, 이태원, 한강진, 버티고개, 약수, 동대입구, 충무로, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 56 mins. 
+Shortest path from 건대입구 to 이태원 : 이태원, 한강진, 버티고개, 약수, 동대입구, 충무로, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 54 mins. 
+Shortest path from 건대입구 to 한강진 : 한강진, 버티고개, 약수, 동대입구, 충무로, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 52 mins. 
+Shortest path from 건대입구 to 버티고개 : 버티고개, 약수, 동대입구, 충무로, 동대문운동�2, 신당, 상왕십리, 왕십리, 한양대, 뚝섬, 성수, 건대입구,  with total time taken 50 mins. 
+Shortest path from 건대입구 to 창신 : 창신, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 39 mins. 
+Shortest path from 건대입구 to 보문 : 보문, 창신, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 41 mins. 
+Shortest path from 건대입구 to 안암 : 안암, 보문, 창신, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 42 mins. 
+Shortest path from 건대입구 to 고려대 : 고려대, 안암, 보문, 창신, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 44 mins. 
+Shortest path from 건대입구 to 월곡 : 월곡, 고려대, 안암, 보문, 창신, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 46 mins. 
+Shortest path from 건대입구 to 상월곡 : 상월곡, 월곡, 고려대, 안암, 보문, 창신, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 48 mins. 
+Shortest path from 건대입구 to 돌곶이 : 돌곶이, 상월곡, 월곡, 고려대, 안암, 보문, 창신, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 50 mins. 
+Shortest path from 건대입구 to 석계 : 석계, 돌곶이, 상월곡, 월곡, 고려대, 안암, 보문, 창신, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 52 mins. 
+Shortest path from 건대입구 to 태릉입구 : 태릉입구, 먹골, 중화, 상봉, 면목, 사가정, 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 51 mins. 
+Shortest path from 건대입구 to 화랑대 : 화랑대, 태릉입구, 먹골, 중화, 상봉, 면목, 사가정, 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 53 mins. 
+Shortest path from 건대입구 to 봉화산 : 봉화산, 화랑대, 태릉입구, 먹골, 중화, 상봉, 면목, 사가정, 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 55 mins. 
+Shortest path from 건대입구 to 장암 : 장암, 도봉산, 수락산, 마들, 노원, 창동, 쌍문, 수유, 미아, 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 80 mins. 
+Shortest path from 건대입구 to 도봉산 : 도봉산, 수락산, 마들, 노원, 창동, 쌍문, 수유, 미아, 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 75 mins. 
+Shortest path from 건대입구 to 수락산 : 수락산, 마들, 노원, 창동, 쌍문, 수유, 미아, 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 72 mins. 
+Shortest path from 건대입구 to 마들 : 마들, 노원, 창동, 쌍문, 수유, 미아, 미아삼거리, 길음, 성신여대입�3, 한성대입구, 혜화, 동대문, 동묘앞, 신설동, 용두, 신답, 용답, 성수, 건대입구,  with total time taken 70 mins. 
+Shortest path from 건대입구 to 중계 : 중계, 하계, 공릉, 태릉입구, 먹골, 중화, 상봉, 면목, 사가정, 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 64 mins. 
+Shortest path from 건대입구 to 하계 : 하계, 공릉, 태릉입구, 먹골, 중화, 상봉, 면목, 사가정, 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 62 mins. 
+Shortest path from 건대입구 to 공릉 : 공릉, 태릉입구, 먹골, 중화, 상봉, 면목, 사가정, 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 60 mins. 
+Shortest path from 건대입구 to 먹골 : 먹골, 중화, 상봉, 면목, 사가정, 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 41 mins. 
+Shortest path from 건대입구 to 중화 : 중화, 상봉, 면목, 사가정, 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 39 mins. 
+Shortest path from 건대입구 to 상봉 : 상봉, 면목, 사가정, 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 37 mins. 
+Shortest path from 건대입구 to 면목 : 면목, 사가정, 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 35 mins. 
+Shortest path from 건대입구 to 사가정 : 사가정, 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 33 mins. 
+Shortest path from 건대입구 to 용마산 : 용마산, 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 32 mins. 
+Shortest path from 건대입구 to 중곡 : 중곡, 군자, 어린이대공�2, 건대입구,  with total time taken 30 mins. 
+Shortest path from 건대입구 to 어린이대공�2 : 어린이대공�2, 건대입구,  with total time taken 10 mins. 
+Shortest path from 건대입구 to 뚝섬유원지 : 뚝섬유원지, 건대입구,  with total time taken 10 mins. 
+Shortest path from 건대입구 to 청담 : 청담, 뚝섬유원지, 건대입구,  with total time taken 13 mins. 
+Shortest path from 건대입구 to 강남구청 : 강남구청, 청담, 뚝섬유원지, 건대입구,  with total time taken 15 mins. 
+Shortest path from 건대입구 to 학동 : 학동, 강남구청, 청담, 뚝섬유원지, 건대입구,  with total time taken 16 mins. 
+Shortest path from 건대입구 to 논현 : 논현, 학동, 강남구청, 청담, 뚝섬유원지, 건대입구,  with total time taken 18 mins. 
+Shortest path from 건대입구 to 반포 : 반포, 논현, 학동, 강남구청, 청담, 뚝섬유원지, 건대입구,  with total time taken 20 mins. 
+Shortest path from 건대입구 to 내방 : 내방, 고속터미널, 반포, 논현, 학동, 강남구청, 청담, 뚝섬유원지, 건대입구,  with total time taken 41 mins. 
+Shortest path from 건대입구 to 남성 : 남성, 이수, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 50 mins. 
+Shortest path from 건대입구 to 숭실대입구 : 숭실대입구, 남성, 이수, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 53 mins. 
+Shortest path from 건대입구 to 상도 : 상도, 숭실대입구, 남성, 이수, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 54 mins. 
+Shortest path from 건대입구 to 장승배기 : 장승배기, 상도, 숭실대입구, 남성, 이수, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 56 mins. 
+Shortest path from 건대입구 to 신대방삼거�3 : 신대방삼거�3, 보래매, 신풍, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 56 mins. 
+Shortest path from 건대입구 to 보래매 : 보래매, 신풍, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 55 mins. 
+Shortest path from 건대입구 to 신풍 : 신풍, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 53 mins. 
+Shortest path from 건대입구 to 남구로 : 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 53 mins. 
+Shortest path from 건대입구 to 가산디지털�1 : 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 54 mins. 
+Shortest path from 건대입구 to 철산 : 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 57 mins. 
+Shortest path from 건대입구 to 광명사거리 : 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 59 mins. 
+Shortest path from 건대입구 to 천왕 : 천왕, 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 62 mins. 
+Shortest path from 건대입구 to 온수 : 온수, 천왕, 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 65 mins. 
+Shortest path from 건대입구 to 까치올 : 까치올, 온수, 천왕, 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 67 mins. 
+Shortest path from 건대입구 to 부천종합운�2 : 부천종합운�2, 까치올, 온수, 천왕, 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 69 mins. 
+Shortest path from 건대입구 to 춘의 : 춘의, 부천종합운�2, 까치올, 온수, 천왕, 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 71 mins. 
+Shortest path from 건대입구 to 신중동 : 신중동, 춘의, 부천종합운�2, 까치올, 온수, 천왕, 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 73 mins. 
+Shortest path from 건대입구 to 부천시청 : 부천시청, 신중동, 춘의, 부천종합운�2, 까치올, 온수, 천왕, 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 76 mins. 
+Shortest path from 건대입구 to 상동 : 상동, 부천시청, 신중동, 춘의, 부천종합운�2, 까치올, 온수, 천왕, 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 78 mins. 
+Shortest path from 건대입구 to 삼산체육관 : 삼산체육관, 상동, 부천시청, 신중동, 춘의, 부천종합운�2, 까치올, 온수, 천왕, 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 79 mins. 
+Shortest path from 건대입구 to 굴포천 : 굴포천, 삼산체육관, 상동, 부천시청, 신중동, 춘의, 부천종합운�2, 까치올, 온수, 천왕, 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 81 mins. 
+Shortest path from 건대입구 to 부평구청 : 부평구청, 굴포천, 삼산체육관, 상동, 부천시청, 신중동, 춘의, 부천종합운�2, 까치올, 온수, 천왕, 광명사거리, 철산, 가산디지털�1, 남구로, 대림, 구로디지철�2, 신대방, 신림, 봉천, 서울대입구, 낙성대, 사당, 방배, 서초, 교대, 강남, 역삼, 선릉, 삼성, 종합운동장, 잠실시내, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 84 mins. 
+Shortest path from 건대입구 to 암사 : 암사, 천호, 광나루, 아차산, 군자, 어린이대공�2, 건대입구,  with total time taken 38 mins. 
+Shortest path from 건대입구 to 강동구청 : 강동구청, 몽촌토성, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 21 mins. 
+Shortest path from 건대입구 to 몽촌토성 : 몽촌토성, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 19 mins. 
+Shortest path from 건대입구 to 석촌 : 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 20 mins. 
+Shortest path from 건대입구 to 송파 : 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 21 mins. 
+Shortest path from 건대입구 to 문정 : 문정, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 41 mins. 
+Shortest path from 건대입구 to 장지 : 장지, 문정, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 42 mins. 
+Shortest path from 건대입구 to 복정 : 복정, 장지, 문정, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 44 mins. 
+Shortest path from 건대입구 to 산성 : 산성, 복정, 장지, 문정, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 47 mins. 
+Shortest path from 건대입구 to 남한산성입�3 : 남한산성입�3, 산성, 복정, 장지, 문정, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 50 mins. 
+Shortest path from 건대입구 to 단대오거리 : 단대오거리, 남한산성입�3, 산성, 복정, 장지, 문정, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 52 mins. 
+Shortest path from 건대입구 to 신흥 : 신흥, 단대오거리, 남한산성입�3, 산성, 복정, 장지, 문정, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 53 mins. 
+Shortest path from 건대입구 to 수진 : 수진, 신흥, 단대오거리, 남한산성입�3, 산성, 복정, 장지, 문정, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 55 mins. 
+Shortest path from 건대입구 to 모란 : 모란, 수진, 신흥, 단대오거리, 남한산성입�3, 산성, 복정, 장지, 문정, 가락시장, 송파, 석촌, 잠실, 잠실나루, 강변, 구의, 건대입구,  with total time taken 56 mins. 
